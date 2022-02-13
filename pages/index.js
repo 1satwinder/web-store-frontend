@@ -1,2 +1,5 @@
-import ProductPage from './products';
+import ProductPage from './products/index';
 export default ProductPage;
+
+
+
