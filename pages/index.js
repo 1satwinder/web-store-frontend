@@ -1,5 +1,5 @@
-import ProductPage from './products/index';
-export default ProductPage;
+import OrderPage from './products/index';
+export default OrderPage;
 
 
 
