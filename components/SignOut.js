@@ -4,7 +4,7 @@ import { CURRENT_USER_QUERY } from "./User"
 
 const SIGN_OUT_MUTATION = gql`
  mutation {
-     endSessions
+     endSession
  }
 `
 
