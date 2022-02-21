@@ -12,7 +12,7 @@ export default function SignInPage() {
     return ( <GridStyles>
     <SignIn/>
     <SignUp/>
-    <RequestReset/>
+    <RequestReset/> 
     </GridStyles>
     );
   }

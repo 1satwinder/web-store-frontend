@@ -9,7 +9,7 @@ export default function ResetPage({ query }) {
         <RequestReset />
       </div>
     );
-  }
+  } 
   return (
     <div>
       <p>RESET YOUR PASSWORD</p>
