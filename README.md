@@ -17,7 +17,7 @@ Admin Interface to manage data<br />
 Provides a set of GraphQL CRUD APIs for a MongoDB <br />
 Schema Definition<br />
 Data Relationships<br />
-Open Source + Self-hoste<br />d<br />
+Open Source + Self-hosted<br />
 Built with Node.js, React + Next.js<br />
 Implementing Query and Mutation Resolvers<br />
 Custom Server Side Logic<br />
@@ -26,6 +26,7 @@ Sending Email<br />
 Performing Authentication<br />
 Managing + Checking Roles + Permissions<br />
 
+## Backend code Link
 [Link to backend code](https://github.com/1satwinder/web-store-backend)
 
 ## How to Run
