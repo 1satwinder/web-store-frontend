@@ -1,30 +1,30 @@
 # Front end code of ecommerce web store
 
-Next.js for server side rendering, routing and tooling
-Styled Components for styling
-Context for Managing Local State
-Apollo's React Hooks for interfacing with Apollo Client
+Next.js for server side rendering, routing and tooling<br />
+Styled Components for styling<br />
+Context for Managing Local State<br />
+Apollo's React Hooks for interfacing with Apollo Client<br />
 
-Performing GraphQL Mutations(create, update, delete)
-Fetching data via GraphQL Queries
-Caching GraphQL Data
-Error and Loading UI States
-Apollo Client replaces the need for redux + data fetching/caching libraries
+Performing GraphQL Mutations(create, update, delete)<br />
+Fetching data via GraphQL Queries<br />
+Caching GraphQL Data<br />
+Error and Loading UI States<br />
+Apollo Client replaces the need for redux + data fetching/caching libraries<br />
 
 
 # Backend: KeyStone.js => A Node.js based GraphQL Server + Headless CMS For 
-Admin Interface to manage data
-Provides a set of GraphQL CRUD APIs for a MongoDB 
-Schema Definition
-Data Relationships
-Open Source + Self-hosted
-Built with Node.js, React + Next.js
-Implementing Query and Mutation Resolvers
-Custom Server Side Logic
-Charging Credit Cards with Stripe
-Sending Email
-Performing Authentication
-Managing + Checking Roles + Permissions
+Admin Interface to manage data<br />
+Provides a set of GraphQL CRUD APIs for a MongoDB <br />
+Schema Definition<br />
+Data Relationships<br />
+Open Source + Self-hoste<br />d<br />
+Built with Node.js, React + Next.js<br />
+Implementing Query and Mutation Resolvers<br />
+Custom Server Side Logic<br />
+Charging Credit Cards with Stripe<br />
+Sending Email<br />
+Performing Authentication<br />
+Managing + Checking Roles + Permissions<br />
 
 [Link to backend code](https://github.com/1satwinder/web-store-backend)
 
